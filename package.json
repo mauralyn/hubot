@@ -2,8 +2,8 @@
   "name": "ba-bot",
   "version": "0.0.0",
   "private": true,
-  "author": "AuthX BA <bateam@authxconsulting.com>",
-  "description": "ba team mascot",
+  "author": "AuthX BA Team <bateam@authxconsulting.com>",
+  "description": "BA team mascot",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
