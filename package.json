@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "AuthX BA <bateam@authxconsulting.com>",
-  "description": "BA Team Mascot",
+  "description": "ba team mascot",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
